@@ -36,7 +36,7 @@ const Landing = () => {
       <input
         className={styles.input}
         type="text"
-        placeholder="Search"
+        placeholder="Search What you need..."
         value={search}
         onChange={searchHandler}
       />
