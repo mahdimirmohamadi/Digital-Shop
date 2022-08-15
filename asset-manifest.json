@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/DigitalShop-ArmaniEnglish/static/css/main.72aae61f.chunk.css",
+    "main.js": "/DigitalShop-ArmaniEnglish/static/js/main.7babec01.chunk.js",
+    "main.js.map": "/DigitalShop-ArmaniEnglish/static/js/main.7babec01.chunk.js.map",
+    "runtime-main.js": "/DigitalShop-ArmaniEnglish/static/js/runtime-main.98ff23ef.js",
+    "runtime-main.js.map": "/DigitalShop-ArmaniEnglish/static/js/runtime-main.98ff23ef.js.map",
+    "static/js/2.cf403d69.chunk.js": "/DigitalShop-ArmaniEnglish/static/js/2.cf403d69.chunk.js",
+    "static/js/2.cf403d69.chunk.js.map": "/DigitalShop-ArmaniEnglish/static/js/2.cf403d69.chunk.js.map",
+    "index.html": "/DigitalShop-ArmaniEnglish/index.html",
+    "static/css/main.72aae61f.chunk.css.map": "/DigitalShop-ArmaniEnglish/static/css/main.72aae61f.chunk.css.map",
+    "static/js/2.cf403d69.chunk.js.LICENSE.txt": "/DigitalShop-ArmaniEnglish/static/js/2.cf403d69.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98ff23ef.js",
+    "static/js/2.cf403d69.chunk.js",
+    "static/css/main.72aae61f.chunk.css",
+    "static/js/main.7babec01.chunk.js"
+  ]
+}
