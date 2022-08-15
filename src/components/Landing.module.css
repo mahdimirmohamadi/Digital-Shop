@@ -7,11 +7,11 @@ body {
     rgba(0, 212, 255, 1) 69%
   );
 }
-.coinContainer {
+.productContainer {
   margin: 50px auto;
   border: 1px solid silver;
   border-radius: 10px;
-  width: fit-content;
+  width: 80%;
   background-color: #f6f6f6;
 }
 
